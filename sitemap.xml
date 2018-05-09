@@ -4,22 +4,6 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://ytkim4558.github.io/welcome.html</loc>
-        
-        <lastmod>2017-07-27T19:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
         <loc>https://ytkim4558.github.io/the-editor.html</loc>
         
         <lastmod>2017-07-27T18:00:00+09:00</lastmod>
