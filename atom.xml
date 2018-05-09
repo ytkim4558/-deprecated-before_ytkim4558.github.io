@@ -10,7 +10,7 @@
       <item>
         <title>Using the Ghost editor</title>
         
-          <description>&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
+          <description>&lt;p&gt;Ghost uses a language called &lt;strong&gt;마크다운&lt;/strong&gt; to format text.&lt;/p&gt;
 &lt;p&gt;When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.&lt;/p&gt;
 &lt;p&gt;At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a &lt;strong&gt;?&lt;/strong&gt; icon, which contains more advanced shortcuts.&lt;/p&gt;
 &lt;p&gt;For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used.&lt;/p&gt;
